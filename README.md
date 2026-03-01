@@ -22,4 +22,6 @@ This project focuses on transforming raw data into analysis-ready reporting that
 ### Extra Modules
 - **Project Priority Matrix** (Quick Wins / Major Projects / Nice to Have / Maybe Later)
 
+Customer Net Sales Performance.jpg
+
 
