@@ -29,6 +29,8 @@ This project focuses on transforming raw data into analysis-ready reporting that
 ![GM by Quarter (Sub-Zone)](https://raw.githubusercontent.com/asif-raza62/Sales-and-Fiance-Analytics-Project-Excel/6dff0f6447085ddbd11f0318106ca3ffe29fe1a0/Gm%20by%20Quarter%20(sub%20zone).jpg)
 ### 4) Market Performance vs Target 
 ![Market Performance vs Target](https://raw.githubusercontent.com/asif-raza62/Sales-and-Fiance-Analytics-Project-Excel/27b766731ae94b6ee08a543f7834ccbbdfcbccfd/Market%20Performance%20Vs%20Target.jpg)
+### 5) Customer Net Sales Performance
+
 
 
 
