@@ -21,6 +21,11 @@ This project focuses on transforming raw data into analysis-ready reporting that
 
 ### Extra Modules
 - **Project Priority Matrix** (Quick Wins / Major Projects / Nice to Have / Maybe Later)
+- ### 1) P&L for Markets
+![P&L for Markets](https://raw.githubusercontent.com/asif-raza62/Sales-and-Fiance-Analytics-Project-Excel/main/P%20%26%20l%20For%20Market.jpg)
+
+### 2) P&L by Fiscal Months
+
 
 
 
