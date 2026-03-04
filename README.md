@@ -25,6 +25,8 @@ This project focuses on transforming raw data into analysis-ready reporting that
 ![P&L for Markets](https://raw.githubusercontent.com/asif-raza62/Sales-and-Fiance-Analytics-Project-Excel/main/P%20%26%20l%20For%20Market.jpg)
 ### 2) P&L by Fiscal Months
 ![P&L Fiscal Months](https://raw.githubusercontent.com/asif-raza62/Sales-and-Fiance-Analytics-Project-Excel/1aa04696c5c7cc80d105b68ff114c888d5251c52/P%26L%20Fiscal%20Months.jpg)
+### 3) GM% by Quarters (Sub-Zone)
+
 
 
 
