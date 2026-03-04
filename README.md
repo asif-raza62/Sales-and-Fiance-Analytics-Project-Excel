@@ -33,6 +33,30 @@ This project focuses on transforming raw data into analysis-ready reporting that
 ![Customer Net Sales Performance](https://raw.githubusercontent.com/asif-raza62/Sales-and-Fiance-Analytics-Project-Excel/8370d2859abf35ffaa24c3f9f13e2e804d3594b6/Customer%20Net%20Sales%20Performance.jpg)
 ### 6) Project Priority Matrix
 ![Project Priority Matrix](https://raw.githubusercontent.com/asif-raza62/Sales-and-Fiance-Analytics-Project-Excel/ec6c1674ccd9a5b258114cb7bd062630a9935355/Project%20Priority%20Matrix.jpg)
+## 🔧 Workflow (What I Did)
+1. **Data Cleaning & Transformation (Power Query)**
+   - Removed nulls, fixed errors, standardized formats
+   - Prepared consistent tables for modeling and reporting
+2. **Data Combination**
+   - Used **VLOOKUP / XLOOKUP / HLOOKUP** to merge datasets into a unified view
+3. **Pivot Tables + Power Pivot**
+   - Built aggregations, calculated fields, and interactive summaries
+4. **Sales Performance Analysis**
+   - Identified top customers, growth drivers, and YoY performance trends (2019–2021)
+5. **Market vs Target Comparison**
+   - Compared actual sales vs target across countries to highlight underperformance
+6. **Profitability Tracking**
+   - Tracked **Gross Margin %** across regions/sub-zones and quarters to spot stability/dips
+7. **P&L Statement Reporting**
+   - Built structured P&L views (Net Sales, COGS, Gross Margin, GM%) monthly and market-wise
+8. **Bonus Add-ons**
+   - Created a **Project Priority Matrix** for resource planning
+   -  ## 📈 Key Insights Enabled
+- Customer-level YoY growth tracking (clear winners and growth opportunities)
+- Market-level target gaps (which countries need attention)
+- Profitability stability checks (where GM% improved or dropped)
+- Monthly P&L health signals (trend-based financial monitoring)
+- Practical forecasting support using scenario planning
 
 
 
