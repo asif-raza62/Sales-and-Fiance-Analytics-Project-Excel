@@ -32,6 +32,7 @@ This project focuses on transforming raw data into analysis-ready reporting that
 ### 5) Customer Net Sales Performance
 ![Customer Net Sales Performance](https://raw.githubusercontent.com/asif-raza62/Sales-and-Fiance-Analytics-Project-Excel/8370d2859abf35ffaa24c3f9f13e2e804d3594b6/Customer%20Net%20Sales%20Performance.jpg)
 ### 6) Project Priority Matrix
+![Project Priority Matrix](https://raw.githubusercontent.com/asif-raza62/Sales-and-Fiance-Analytics-Project-Excel/ec6c1674ccd9a5b258114cb7bd062630a9935355/Project%20Priority%20Matrix.jpg)
 
 
 
